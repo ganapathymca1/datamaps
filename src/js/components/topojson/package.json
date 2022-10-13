@@ -19,7 +19,7 @@
     "dsv": "0.0",
     "optimist": "0.3",
     "queue-async": "1.0",
-    "shapefile": "0.1"
+    "shapefile": "0.6.6"
   },
   "devDependencies": {
     "vows": "0.7",
